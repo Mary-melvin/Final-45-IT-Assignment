@@ -1,0 +1,17 @@
+var myCar = "Alto";
+console.log(myCar == "Alto");
+var myFruit = "Apple";
+console.log(myFruit == "Apple");
+console.log(myFruit == "apple");
+var myArray = [13, 3, 9];
+console.log(myArray.length == 3);
+console.log(myArray.length == 4);
+var studentName = "Adam";
+console.log(studentName == "Adam");
+console.log(studentName == "adam");
+var mySchool = "Government";
+console.log(mySchool == "Government");
+console.log(mySchool == "Government");
+var Language = "Urdu";
+console.log(Language == "urdu");
+console.log(Language == "Urdu");
